@@ -304,10 +304,3 @@ elif page == "📈 Progress":
 
 st.divider()
 st.caption("AI Study Buddy · Class 12 Capstone Project · Built using Streamlit. This version uses sample questions and local session/data storage; it does not connect to an AI model.")
-
-
-
-
-
-pip install -r requirements.txt
-streamlit run app.py
